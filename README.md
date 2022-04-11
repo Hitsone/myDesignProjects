@@ -13,7 +13,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Vektor-Industrial)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ProKamen)](https://git.io/typing-svg)
 <hr>
 <p>Разработка информационного сайта-магазина с нуля для гранитной мастерской «ПроКамень»</p>
 <ul>
